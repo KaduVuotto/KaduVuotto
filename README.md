@@ -1,13 +1,23 @@
-### Oi, eu sou Kadu! 👨🏻‍💻
+## Oi, eu sou Kadu! 👨🏻‍💻
 
+<br/>
+
+### Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-o-v-amorim-753437116/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaduvuotto/)
 
-![KaduVuotto GitHub stats](https://github-readme-stats.vercel.app/api?username=KaduVuotto&show_icons=true&theme=dark)
+<br/>
+
+### App que tenho na loja 🛒
+
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
+[![Task App](https://play-lh.googleusercontent.com/oRrogWs-oaSohPwaJppQSiqZllx-QtFSMxW26tiuNbKzkASkM9oFBk8PQ5BppI0DOH4=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.kaduvuottotaskapp)
+
+<br/>
 
 ### Tecnologias que uso
-
-<div style="displat: inline_block"><br/>
+<div style="displat: inline_block">
 <img  align='center' alt='html5'src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
 <img  align='center' alt='html5'src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
 <img  align='center' alt='html5'src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
@@ -21,3 +31,4 @@
 <img  align='center' alt='html5'src='https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white'/>
 <img  align='center' alt='html5'src='https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white'/>
 </div>
+
