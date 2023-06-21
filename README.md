@@ -1,12 +1,10 @@
 ## Oi, eu sou Kadu! 👨🏻‍💻
 
-<br/>
 
 ### Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-o-v-amorim-753437116/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaduvuotto/)
 
-<br/>
 
 ### App que tenho na loja 🛒
 
@@ -14,7 +12,6 @@
 
 [![Task App](https://play-lh.googleusercontent.com/oRrogWs-oaSohPwaJppQSiqZllx-QtFSMxW26tiuNbKzkASkM9oFBk8PQ5BppI0DOH4=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.kaduvuottotaskapp)
 
-<br/>
 
 ### Tecnologias que uso
 <div style="displat: inline_block">
