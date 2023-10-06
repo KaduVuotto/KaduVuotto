@@ -11,6 +11,7 @@
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
 [![Task App](https://play-lh.googleusercontent.com/oRrogWs-oaSohPwaJppQSiqZllx-QtFSMxW26tiuNbKzkASkM9oFBk8PQ5BppI0DOH4=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.kaduvuottotaskapp)
+[![Vuotto Invest](https://play-lh.googleusercontent.com/dcEHYQsD-aL8MP22Ca5xHuedGY__BQ1geW0NzBN2qWe6Fw9pAWB9LoXTRT5Mg5SCPA=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.vinvest)
 
 
 ### Tecnologias que uso
