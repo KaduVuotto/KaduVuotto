@@ -1,11 +1,5 @@
 ## Oi, eu sou Kadu! 👨🏻‍💻
 
-
-### 📱 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-o-v-amorim-753437116/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaduvuotto/)
-
-
 ### 🛒 Apps que tenho na loja 
 <div style="displat: inline_block">
   <img  align='center' alt='google-play' src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white'/>
@@ -57,4 +51,6 @@
   <img  align='center' alt='prettier' src='https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E'/>
 </div>
 
-
+### 📱 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-o-v-amorim-753437116/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaduvuotto/)
