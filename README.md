@@ -11,14 +11,14 @@
   <img  align='center' alt='google-play' src='https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white'/>
   </br>
   </br>
-  <a hrf="https://play.google.com/store/apps/details?id=com.kaduvuottotaskapp">
-    <img  align='center' alt='task-app' height="120" width="120" margin="16" src='https://play-lh.googleusercontent.com/oRrogWs-oaSohPwaJppQSiqZllx-QtFSMxW26tiuNbKzkASkM9oFBk8PQ5BppI0DOH4=w480-h960-rw'/>
+  <a href="https://play.google.com/store/apps/details?id=com.kaduvuottotaskapp">
+    <img  align='center' alt='task-app' height="120" width="120" src='https://play-lh.googleusercontent.com/oRrogWs-oaSohPwaJppQSiqZllx-QtFSMxW26tiuNbKzkASkM9oFBk8PQ5BppI0DOH4=w480-h960-rw'/>
   </a>
-  <a hrf="https://play.google.com/store/apps/details?id=com.vinvest">
-    <img  align='center' alt='vuotto-invest' height="120" width="120" margin="16" src='https://play-lh.googleusercontent.com/dcEHYQsD-aL8MP22Ca5xHuedGY__BQ1geW0NzBN2qWe6Fw9pAWB9LoXTRT5Mg5SCPA=w480-h960-rw'/>
+  <a href="https://play.google.com/store/apps/details?id=com.vinvest">
+    <img  align='center' alt='vuotto-invest' height="120" width="120" src='https://play-lh.googleusercontent.com/dcEHYQsD-aL8MP22Ca5xHuedGY__BQ1geW0NzBN2qWe6Fw9pAWB9LoXTRT5Mg5SCPA=w480-h960-rw'/>
   </a>
-  <a hrf="https://play.google.com/store/apps/details?id=com.kaduvuotto.ctourism">
-    <img  align='center' alt='turismo-de-campos' height="120" width="120" margin="16" src='https://play-lh.googleusercontent.com/IYyy5HrwROfM5gW864_Q4pkE_L63uZYyzqep6YD_bGt6tFAdXv57jlZPC_ea_vjaDHw=w480-h960-rw'/>
+  <a href="https://play.google.com/store/apps/details?id=com.kaduvuotto.ctourism">
+    <img  align='center' alt='turismo-de-campos' height="120" width="120" src='https://play-lh.googleusercontent.com/IYyy5HrwROfM5gW864_Q4pkE_L63uZYyzqep6YD_bGt6tFAdXv57jlZPC_ea_vjaDHw=w480-h960-rw'/>
   </a>
 </div>
 
